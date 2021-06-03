@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from Dublin: in a letter from an Irish gentleman to his friend in London. Printed according to order.</title>
+            <author>T. C.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18430</idno><idno type="EEBO-CITATION">99886662</idno>
+  <idno type="VID">187630</idno>
+  <idno type="EEBO-PROQUEST">2240894914</idno>
+  
+            <idno type="STC">Wing C133A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.23[69]</idno>
+            <idno type="STC">ESTC R226339</idno>
+            <idno type="PROQUEST">ocm99886662</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886662e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187630)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:2[66])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from Dublin: in a letter from an Irish gentleman to his friend in London. Printed according to order.</title>
+                  <author>T. C.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>sold by Richard Janeway,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: T. C.</note>
+                  <note>Place of publication from the British Library.</note>
+                  <note>With an advertisement at the end.</note>
+                  <note>Imperfect: print faded.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:187630:1"/>
+            <head>
+               <hi>Great News from Dublin:</hi> IN ALETTER from an <hi>IRISH</hi> Gentleman to his Friend in <hi>LONDON.</hi> Printed according to Order.</head>
+            <opener>
+               <dateline>
+                  <hi>Dublin,</hi>
+                  <date>Jan. 29. 1689/90.</date>
+               </dateline>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU cannot be insensible, that an Op<g ref="char:EOLhyphen"/>portunity of Imparting any manner of News from these parts, is much ra<g ref="char:EOLhyphen"/>ther desirable than possible, and consequently that <hi>these few lines</hi> are as much as you could in any reason expect from me at this time, I having notice of Mr. <hi>B—s</hi> intended escape scarce a quarter of an hour before I set Pen to paper: The greatest Discourse about Town here, ariseth from the various <hi>Conjectures</hi> of the Reasons of King <hi>James</hi>'s <hi>Melancholly,</hi> which for these three Weeks or more, hath been ex<g ref="char:EOLhyphen"/>treamly taken notice of at <hi>Kilkenny,</hi> and is now generally whisper'd thorough this City. Those who pretend to any insight into the posture of Affairs here, or that are vers'd in any of the Politicks of this <hi>Piece-meal Govern<g ref="char:EOLhyphen"/>ment,</hi> apprehend and privately give out, that it proceeds from a Pacquet the <hi>late King</hi> re<g ref="char:EOLhyphen"/>ceived from <hi>France</hi> about the 24<seg rend="sup">th</seg> of <hi>January</hi> last, in which it is believ'd the <hi>French King</hi> hath proved himself defective, either in <hi>his Will</hi> or <hi>his Power,</hi> to send such seasonable Supplyes as may enable the late King to take the Field early enough, and which his Party here boast<g ref="char:EOLhyphen"/>ed long before would without doubt have been sufficient to have beat <hi>Duke Schomberg and his handfull of Raw men</hi> (as they call them) back to <hi>England.</hi> Others date his Discontents from the late Review he took of some of his <hi>Regi<g ref="char:EOLhyphen"/>ments,</hi> which are very <hi>ill clad, worse arm'd,</hi> and not in any tolerable manner disciplin'd: so that it is thought he began to Despond, when he saw on how weak Pillars the bulky Fate of his three Kingdoms lean'd, and how basely he had been by his <hi>Priests and Mungril Officers</hi> deluded into a Belief of a much more pertinent and con<g ref="char:EOLhyphen"/>siderable strength.</p>
+            <p>But in short, those who are nearest about him, one of which I have the fortune to con<g ref="char:EOLhyphen"/>verse with, do solemnly averr, That his <hi>grief and Melancholly</hi> did sensibly begin and proceed from Two strange and indeed <hi>ominous Dreams,</hi> which he had that very night in which by a Renegado from the <hi>English</hi> Quarters, he receiv'd the <hi>News of K.</hi> William<hi>'s determinate Resolution to come over and head his own Army here this Spring.</hi> And because the Dreams of Great Per<g ref="char:EOLhyphen"/>sons, whose daily thoughts (from whence these roving Phantomes by Night take their rise) are employ'd in mighty Affairs, have been both by <hi>Sacred and prophane</hi> Pens thought worthy to be transmitted to Posterity; I will here in brief set them down, and subjoyn also the Descants and Interpretations that are here made upon them.</p>
+            <p>The late King was at <hi>Kilkenny,</hi> at Supper, when he receiv'd the aforesaid News, which so dissatisfy'd him, that he abruptly rose and with<g ref="char:EOLhyphen"/>drew into his Bed-chamber, whither he call'd a Council, and after three or four hours serious debate, he went to Bed, and <hi>dream'd,</hi> That a <hi>Capuchine Fryar</hi> (being one that he had been in<g ref="char:EOLhyphen"/>timate with in <hi>France,</hi> and who had help'd to convert him to the <hi>Romish</hi> Religion,) met him alone in a fair Walk belonging to the <hi>Castle</hi> of <hi>Kilkenny,</hi> with his Royal Robes on, and a Scepter in his hand, which the Fryar (coming up hastily in his proper Habit) rudely laid hold of, broke in several pieces, and threw away, and at the same time catching at his Robe, and disengaging it readily from the Kings shoulders, he forthwith threw his own Habit and Cowle upon the King, and drove him to an old ruina<g ref="char:EOLhyphen"/>ted Abbey or <hi>Monastery,</hi> which stands at some distance from the Castle, telling him that God had allotted that place for <hi>his Habitation,</hi> and that till he betook himself thereto, he should never have <hi>rest:</hi> And so left him.</p>
+            <p>His Second Dream was: That having his Army drawn up in some large <hi>Plain, in Battel-Array,</hi> he saw <hi>King</hi> William <hi>at the Head of his Army,</hi> advancing with a <hi>vigorous Grace</hi> to en<g ref="char:EOLhyphen"/>gage him, when of a sudden his own Leading Staff fell out of his Hand, and while he was <hi>pointing to some near him</hi> to take it up, his whole Army was of a sudden <hi>vanish</hi>'d <hi>from behind</hi> him, and himself enclos'd in the middle of the Ene<g ref="char:EOLhyphen"/>my, from whom yet he escapes. These were his two Dreams, and which have render'd him very thoughtfull and Melancholly ever since: As for the Interpretation, those that dare ex<g ref="char:EOLhyphen"/>press their thoughts, thus render them.</p>
+            <p>
+               <hi>For the first,</hi> though it were first in time, yet they conclude it last in order, and indeed they explain it as the natural consequence of the lat<g ref="char:EOLhyphen"/>ter; as to the particulars they speak thus: <hi>viz.</hi> That the dropping of his Leading-staff, either denotes his <hi>fear of heading his Army himself,</hi> or
+<pb n="2" facs="tcp:187630:2"/>that the Government of his Army and King<g ref="char:EOLhyphen"/>dom, will be dispos'd of, and committed to some Forreign (which they suppose <hi>French</hi>) trust, and that the pains he takes will notwithstand<g ref="char:EOLhyphen"/>ing be little for his own Advantage or Honour: And for his Army, <hi>seeming to vanish our of his sight,</hi> it seems to foretell and presage either some cowardly base flight of his Men, or an universal Revolt from him. Then comes the <hi>Capuchin tearing off his Royal Robes, and breaking his Scepter;</hi> which evidently seem to foretell the having inevitably lost all hopes of Recover<g ref="char:EOLhyphen"/>ing his Kingdoms, he is obliged for the better security of himself, to retire into <hi>some Monaste<g ref="char:EOLhyphen"/>ry,</hi> there to spend the residue of his unhappy Life in a penitent Sorrow for his manifest and grievous Sins against <hi>God,</hi> against his <hi>Countrey,</hi> and against the better part of <hi>Christendome,</hi> in being (as it is justly imputed to him) one of the chief Causes that so much Innocent Blood of good Christians has been spilt in his own and in Forreign Countreys and Kingdoms.</p>
+            <closer>
+               <signed>
+                  <hi>I am Obliged in hast to subscribe my self, Yours</hi> T. C.</signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THere is newly published, a Play, Entituled <hi>The Abdica<g ref="char:EOLhyphen"/>ted Prince,</hi> or, <hi>The Adventures of Four Years.</hi> A Tragi-Comedy: As it was lately Acted at the Court at <hi>ALBA REGALIS:</hi> By several Persons of Great Quality.</p>
+            <div type="dramatis_personae">
+               <head>The ACTORS Names.</head>
+               <list>
+                  <head>The MEN.</head>
+                  <item>
+                     <hi>Cullydada,</hi> King of <hi>Hungaria Nova.</hi>
+                  </item>
+                  <item>
+                     <hi>Philarax,</hi> his true Friend and Counsel<g ref="char:EOLhyphen"/>lor, but out of Favour.</item>
+                  <item>
+                     <hi>Philodemus,</hi> Duke of <hi>Monumora,</hi> the Dar<g ref="char:EOLhyphen"/>ling of the People.</item>
+                  <item>
+                     <hi>Pietro,</hi> a sly malicious Villain; a Rene<g ref="char:EOLhyphen"/>gado Christian, and turn'd a Maho<g ref="char:EOLhyphen"/>metan Priest, chief Favourite of the Kings, and a mortal Enemy to the <hi>Hungarians.</hi>
+                  </item>
+                  <item>Count <hi>Dadamore,</hi> a special Favourite of the Queens, an <hi>Italian</hi> by Birth, and sent on a secret Message by the <hi>Muf<g ref="char:EOLhyphen"/>ti</hi> to the <hi>Hungarian Court.</hi>
+                  </item>
+                  <item>
+                     <hi>Barbarossa,</hi> Chancellor of <hi>Hungaria,</hi> a bloody-minded Villain, an Enemy to the Christians.</item>
+                  <item>
+                     <hi>Warranto,</hi> Two Creatures of the Chan<g ref="char:EOLhyphen"/>cellors, rais'd on purpose to Sold by the Booksellers ruine the Laws and Liberties of the <hi>Hungarians.</hi>
+                  </item>
+                  <item>
+                     <hi>Dispenso,</hi> Two Creatures of the Chan<g ref="char:EOLhyphen"/>cellors, rais'd on purpose to ruine the Laws and Liberties of the <hi>Hungarians.</hi>
+                  </item>
+                  <item>
+                     <hi>Remarquo,</hi> an Honest <hi>Hungarian,</hi> a deep Observer of the Court Intrigues, who by a Witty sort of Buffoonry picks out and discovers all their Plots and Contrivances.</item>
+                  <item>Sentinels, Rabble, Messengers, Coun<g ref="char:EOLhyphen"/>try-People, Officers.</item>
+               </list>
+               <list>
+                  <head>The WOMEN.</head>
+                  <item>
+                     <hi>Hautefelia,</hi> Queen of <hi>Hungary,</hi> a proud imperious bloody-minded Woman, sworn Enemy to the Christians of <hi>Hungary,</hi> in Love with Count <hi>Dada<g ref="char:EOLhyphen"/>more.</hi>
+                  </item>
+                  <item>
+                     <hi>Mazato,</hi> Marchioness of <hi>Bulgaria,</hi> chief Confident of <hi>Hautefelia.</hi>
+                  </item>
+                  <item>
+                     <hi>Sycophante,</hi> Countess of <hi>Shambrogue,</hi> and Favourite of <hi>Hautefelia.</hi>
+                  </item>
+                  <item>
+                     <hi>Celia,</hi> Midwife to the Queen.</item>
+                  <item>
+                     <hi>Secretta,</hi> Nurse to the Queen.</item>
+               </list>
+               <p>Sold by the Booksellers of <hi>London</hi> and <hi>Westminster.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Sold by <hi>Richard Janeway,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
